@@ -1,4 +1,4 @@
-from pygls.server import LanguageServer
+from pygls.lsp.server import LanguageServer
 from lsprotocol import types
 #import requests
 from completion_engine import CompletionEngine
